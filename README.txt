@@ -12,4 +12,4 @@ homework_solutions.pdf - homework questions, answers, reflection, and relevant l
 
 *.wav - audio files for different parts (names are bird species and mystery.wav)
 
-sample.wav - audio file for part 2
+sample.m4a - audio file for part 2
